@@ -6,3 +6,7 @@ I am engaged in data analysis for various tasks ranging from the development of 
 
 ## My preview
 ![BIO](/image1.png "BIO")
+
+## Contact
+email: denis.g.post@mail.ru
+https://www.kaggle.com/origent1
